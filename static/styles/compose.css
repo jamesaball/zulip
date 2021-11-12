@@ -472,6 +472,10 @@ input.recipient_box {
     margin-top: 4px;
 }
 
+.formatting_button {
+    font-size: 12px !important;
+}
+
 a.compose_control_button {
     padding: 5px;
     display: block;
